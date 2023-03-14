@@ -1,0 +1,4 @@
+[08-Mar-2023 13:13:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Lg-…Aµ@c-we¤E,:asC-qÅ¬cL}‹Í~FqCR\oMuÃÝ¶ld-JEŒ}C!×µDO½^`gsN]zUXclx-x,q() in /home/softyeds/testing.softswapp.com/trade/assets/bootstrap/admin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/softyeds/testing.softswapp.com/trade/assets/bootstrap/admin.php on line 18

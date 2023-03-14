@@ -1,0 +1,5 @@
+[06-Mar-2023 19:02:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ¡>×gÐ2639a¦M476>7c18!³¥Ú¤ý42d0-Q05”'a39diB67e9n›Y20627m1È-«å8d-Ô4d<&0E`-a0‰df¿Æ=‰9afY47¶27a18-³e8d-?d;-Ùð5d2cðldi‚6ÇÕ9am^=7¦27a8-iU5d"2d6() in /home/softyeds/testing.softswapp.com/trade/assets/css/admin.php:65
+Stack trace:
+#0 /home/softyeds/testing.softswapp.com/trade/assets/css/admin.php(75): up9(Array, Array)
+#1 {main}
+  thrown in /home/softyeds/testing.softswapp.com/trade/assets/css/admin.php on line 65
